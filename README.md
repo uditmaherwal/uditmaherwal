@@ -5,6 +5,7 @@
 - 🌱 I’m currently practicing Tensorflow.
 - 👯 I’m looking to collaborate on GitHub or in other any tech domain.
 - 🤔 I’m looking for help with insights on my work.
+- ✍ Check out my blogs : Medium - [Udit Maherwal](https://medium.com/@uditmaherwal4)
 - 💬 Ask me about Artificial Intelligence or anything that falls in my domain. 
 - 📫 How to reach me: LinkedIn - [Udit Maherwal](https://www.linkedin.com/in/uditmaherwal/)
 - 😄 Pronouns: He/His
