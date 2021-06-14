@@ -28,7 +28,7 @@
 - 💬 Ask me about Artificial Intelligence or anything that falls in my domain. 
 - 📫 How to reach me: LinkedIn - [Udit Maherwal](https://www.linkedin.com/in/uditmaherwal/)
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: Wikipedia needs an army of anti-vandal bots.
+- ⚡ Fun fact: Cryptocurrency is...
 
 
 <a href="https://github.com/uditmaherwal">
