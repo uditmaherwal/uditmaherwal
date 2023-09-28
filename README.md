@@ -20,7 +20,7 @@
 <br/>
 
 
-- 🔭 I’m currently working on Flutter platform.
+- 🔭 I’m currently working on as Application Development Analyst at Accenture.
 - 🌱 I’m currently practicing Data Structure and Algorithms.
 - 👯 I’m looking to collaborate on GitHub or in other any tech domain.
 - 🤔 I’m looking for help with insights on my work.
