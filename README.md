@@ -15,22 +15,6 @@
   <img align="left-center" alt="Udit's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
 
-<br/>
-<br/>
-<br/>
-
-
-- 🔭 I’m currently working on as Application Development Analyst at Accenture.
-- 🌱 I’m currently practicing Data Structure and Algorithms.
-- 👯 I’m looking to collaborate on GitHub or in other any tech domain.
-- 🤔 I’m looking for help with insights on my work.
-- ✍ Check out my blogs : Medium - [Udit Maherwal](https://medium.com/@uditmaherwal4)
-- 💬 Ask me about Artificial Intelligence or anything that falls in my domain. 
-- 📫 How to reach me: LinkedIn - [Udit Maherwal](https://www.linkedin.com/in/uditmaherwal/)
-- 😄 Pronouns: He/His
-- ⚡ Fun fact: Cryptocurrency is...
-
-
 <a href="https://github.com/uditmaherwal">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uditmaherwal&theme=dark&hide_langs_below=1" />
 </a>
