@@ -12,7 +12,7 @@ Welcome to my GitHub! I'm a **results-driven Software Engineer** with **4+ years
 
 I specialize in designing and implementing **production-grade microservices architectures**, cloud deployments, and event-driven systems. My passion lies in solving complex architectural challenges, optimizing system performance, and mentoring junior engineers.
 
-Currently based in **Jaipur, Rajasthan, India**, I work with cutting-edge technologies and best practices to deliver robust, secure, and highly available applications across telecom and healthcare domains.
+Currently based in **Jaipur, Rajasthan, India**, I work with cutting-edge technologies and best practices to deliver robust, secure, and highly available applications across telecom domains.
 
 **Core Values:** Clean Code • Scalability • Security • Innovation • Knowledge Sharing
 
