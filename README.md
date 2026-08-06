@@ -1,116 +1,120 @@
 # Hi 👋 I'm Udit Maherwal
 
-Backend Engineer focused on **Node.js, distributed systems, and scalable backend architecture**.
+Backend Engineer specializing in **Java, Spring Boot, and scalable backend systems**.
 
-I build **high-throughput APIs, event-driven systems, and realtime backend services**.
+I build **high-performance REST APIs, microservices, and enterprise backend applications** with a focus on clean architecture, performance, and reliability.
 
-Currently transitioning from enterprise backend development into **modern Node.js backend engineering**.
+Currently working as a **Software Engineer at Accenture**, building enterprise-scale backend solutions and continuously deepening my expertise in distributed systems and backend architecture.
 
 ---
 
 ## 🚀 Engineering Focus
 
-* Scalable backend systems
-* Node.js architecture
-* Distributed systems
-* Event-driven microservices
-* API design and performance optimization
+- Enterprise backend development
+- Spring Boot microservices
+- Distributed systems
+- REST API design
+- Performance optimization
+- Scalable backend architecture
 
 ---
 
 ## 🛠 Tech Stack
 
-**Backend**
-Node.js • Express • Fastify
+### Backend
+Java • Spring Boot • Spring MVC • Spring Data JPA • Hibernate
 
-**Databases**
-PostgreSQL • MongoDB • Redis
+### Databases
+Oracle • PostgreSQL • MySQL • Redis
 
-**Messaging**
+### Messaging
 Kafka • RabbitMQ
 
-**Cloud & DevOps**
-Docker • AWS • CI/CD
+### Cloud & DevOps
+Docker • AWS • CI/CD • Jenkins
 
-**Tools**
-Git • IntelliJ • VS Code
+### Tools
+Git • Maven • IntelliJ IDEA • Postman
 
 ---
 
 ## 📌 Featured Projects
 
-### 🔗 Distributed URL Shortener
+### 🔗 URL Shortener Service
 
-High-scale backend system designed to handle large traffic volumes.
+Scalable URL shortening service built using Spring Boot with optimized database design and caching.
 
-Tech:
-Node.js • Redis • PostgreSQL • Docker
+**Tech**
+Java • Spring Boot • Redis • PostgreSQL • Docker
 
-Concepts:
-Caching • Rate limiting • ID generation • Analytics pipeline
-
----
-
-### 💬 Realtime Chat System
-
-Horizontally scalable chat system using WebSockets.
-
-Tech:
-Node.js • Socket.io • Redis • PostgreSQL
-
-Concepts:
-Pub/Sub messaging • realtime communication • distributed state
+**Concepts**
+Caching • Rate Limiting • Unique ID Generation • Analytics
 
 ---
 
-### ⚙️ Distributed Job Queue
+### ⚙️ Distributed Job Processing System
 
-Background processing system with scalable worker architecture.
+Background job processing platform capable of handling high volumes of asynchronous workloads.
 
-Tech:
-Node.js • BullMQ • Redis • PostgreSQL
+**Tech**
+Java • Spring Boot • RabbitMQ/Kafka • Redis • PostgreSQL
 
-Concepts:
-Async job processing • retries • worker scaling
+**Concepts**
+Asynchronous Processing • Retry Mechanisms • Worker Scaling • Fault Tolerance
 
 ---
 
 ### 📡 Event-Driven Microservices
 
-Microservices communicating asynchronously through events.
+Microservices communicating asynchronously using messaging platforms.
 
-Tech:
-Node.js • Kafka / RabbitMQ • Docker
+**Tech**
+Java • Spring Boot • Kafka • RabbitMQ • Docker
 
-Concepts:
-Event streaming • service decoupling • async workflows
+**Concepts**
+Event Streaming • Service Decoupling • Event-Driven Architecture • Resilience
+
+---
+
+### 🏦 Enterprise Backend APIs
+
+Production-ready REST APIs following clean architecture and best practices.
+
+**Tech**
+Java • Spring Boot • Spring Data JPA • Hibernate • Oracle
+
+**Concepts**
+REST APIs • Layered Architecture • Transaction Management • Security • Performance Optimization
 
 ---
 
 ## 📈 Professional Experience
 
-**Software Engineer — Accenture**
+### Software Engineer — Accenture
 
-* Backend systems supporting **330M+ telecom users**
-* Optimized database queries improving performance **35–40%**
-* Reduced deployment time **2 hours → 25 minutes**
-* Designed architecture for multiple enterprise services
+- Developed and maintained backend services supporting **330M+ telecom users**.
+- Improved database performance by **35–40%** through SQL tuning and query optimization.
+- Reduced deployment time from **2 hours to 25 minutes** by improving CI/CD processes.
+- Designed and enhanced multiple enterprise backend services using Java and Spring Boot.
+- Collaborated with cross-functional teams to deliver highly available and scalable enterprise applications.
 
 ---
 
 ## 📚 Currently Learning
 
-* Advanced Node.js architecture
-* Distributed system design
-* High-scale backend systems
-* Streaming platforms and event pipelines
+- Advanced Spring Boot
+- Spring Cloud
+- Distributed system design
+- Event-driven architecture
+- Kubernetes
+- System Design for large-scale applications
 
 ---
 
 ## 🤝 Connect
 
-LinkedIn
+**LinkedIn**  
 https://linkedin.com/in/uditmaherwal
 
-Email
-[uditmaherwal4@gmail.com](mailto:uditmaherwal4@gmail.com)
+**Email**  
+uditmaherwal4@gmail.com
